@@ -1,0 +1,13 @@
+D:\Workspace\SerializeReadonlyMemory\SerializeReadonlyMemory\bin\Debug\netcoreapp3.1\SerializeReadonlyMemory.exe
+D:\Workspace\SerializeReadonlyMemory\SerializeReadonlyMemory\bin\Debug\netcoreapp3.1\SerializeReadonlyMemory.deps.json
+D:\Workspace\SerializeReadonlyMemory\SerializeReadonlyMemory\bin\Debug\netcoreapp3.1\SerializeReadonlyMemory.runtimeconfig.json
+D:\Workspace\SerializeReadonlyMemory\SerializeReadonlyMemory\bin\Debug\netcoreapp3.1\SerializeReadonlyMemory.runtimeconfig.dev.json
+D:\Workspace\SerializeReadonlyMemory\SerializeReadonlyMemory\bin\Debug\netcoreapp3.1\SerializeReadonlyMemory.dll
+D:\Workspace\SerializeReadonlyMemory\SerializeReadonlyMemory\bin\Debug\netcoreapp3.1\SerializeReadonlyMemory.pdb
+D:\Workspace\SerializeReadonlyMemory\SerializeReadonlyMemory\obj\Debug\netcoreapp3.1\SerializeReadonlyMemory.csprojAssemblyReference.cache
+D:\Workspace\SerializeReadonlyMemory\SerializeReadonlyMemory\obj\Debug\netcoreapp3.1\SerializeReadonlyMemory.AssemblyInfoInputs.cache
+D:\Workspace\SerializeReadonlyMemory\SerializeReadonlyMemory\obj\Debug\netcoreapp3.1\SerializeReadonlyMemory.AssemblyInfo.cs
+D:\Workspace\SerializeReadonlyMemory\SerializeReadonlyMemory\obj\Debug\netcoreapp3.1\SerializeReadonlyMemory.csproj.CoreCompileInputs.cache
+D:\Workspace\SerializeReadonlyMemory\SerializeReadonlyMemory\obj\Debug\netcoreapp3.1\SerializeReadonlyMemory.dll
+D:\Workspace\SerializeReadonlyMemory\SerializeReadonlyMemory\obj\Debug\netcoreapp3.1\SerializeReadonlyMemory.pdb
+D:\Workspace\SerializeReadonlyMemory\SerializeReadonlyMemory\obj\Debug\netcoreapp3.1\SerializeReadonlyMemory.genruntimeconfig.cache
